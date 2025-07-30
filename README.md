@@ -1,75 +1,71 @@
-<!-- Clean Professional GitHub README | 2025 Edition -->
+<!-- GitHub Profile README | Minimal Elegant Design -->
 
-<h1 align="center">Hi there 👋, I'm Janith Madusankha</h1>
-<p align="center"><strong>Cybersecurity Enthusiast | Network Engineer | Automation Learner</strong></p>
+<h1 align="center">👋 Hello, I'm Janith Madusankha</h1>
+<h3 align="center">Cybersecurity | Network Engineering | Automation</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=435&lines=Cybersecurity+Student+%7C+Network+Engineer;AI+inspired+Designer+%7C+Penetration+Tester;Always+Learning+New+Things..." alt="Typing SVG" />
+</p>
 
 ---
 
-### 👨‍💻 About Me
+### 🧠 About Me
 
-- 🎓 Undergraduate at South Eastern University of Sri Lanka
-- 🔐 Passionate about cybersecurity, ethical hacking, and secure network design
-- 💻 Currently working on: 
-  - DVWA + Metasploit Lab
-  - Faculty Secure Network (Cisco Packet Tracer)
-  - AI-Powered Graphic Design Tools
-- 🌱 Learning: OSPF, SNMP, Zabbix, Wi-Fi 6, React.js
-- 📫 Reach me at: `janithmadusankha@gmail.com`
-- 🌐 Portfolio: [artdecocreation.web.app](https://artdecocreation.web.app)
+- 🎓 Final-year undergraduate | South Eastern University of Sri Lanka  
+- 💼 Final Year Project: **"Wireless + Wired Secure Faculty Network Design"**  
+- 🚀 Building Labs in: DVWA, Metasploit, Burp Suite, Hydra  
+- 🧰 Developing: AI-powered Poster Generator for Tuition Teachers  
+- 🌱 Learning daily: Zabbix, OSPF, VLANs, Wi-Fi 6, React  
+- 📫 Email: `janithmadusankha@gmail.com`  
+- 🌐 Website: [artdecocreation.web.app](https://artdecocreation.web.app)
 
 ---
 
 ### 🧰 Tech Stack
 
-**Languages:**  
-`Python` `JavaScript` `HTML/CSS` `Shell`
-
-**Cybersecurity Tools:**  
-`Kali Linux` `Metasploit` `Burp Suite` `SQLmap` `Hydra` `Wireshark` `Nikto`
-
-**Network Tools:**  
-`Cisco Packet Tracer` `Zabbix` `pfSense` `GNS3` `Nmap` `SNMP` `Firewall`
-
-**Design & Dev Tools:**  
-`VS Code` `Figma` `Git` `GitHub` `Linux` `Photoshop` `Canva`
+| 🛠️ Languages | 🧪 Security Tools | 🖥️ Network Tools | 🖌️ Design Tools |
+|--------------|------------------|------------------|----------------|
+| Python, JS, HTML/CSS | Metasploit, Burp Suite, Hydra, SQLmap, Nikto | Cisco PT, Zabbix, Wireshark, pfSense, SNMP | Photoshop, Figma, Canva, AI Tools |
 
 ---
 
-### 📊 GitHub Stats
+### 📁 Featured Projects
+
+- 🔐 [Full Web App Vulnerability Lab (DVWA + Metasploit)](https://github.com/janithmadusankha/dvwa-vapt-lab)
+- 🌐 [Secure VLAN-Based Faculty Network (Cisco PT)](https://github.com/janithmadusankha/faculty-network)
+- 🎨 [Tuition Poster Generator with AI (ArtDeCoCreation)](https://github.com/janithmadusankha/artdeco-ai)
+
+---
+
+### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janithmadusankha&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janithmadusankha&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=janithmadusankha&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=janithmadusankha&theme=tokyonight" width="47%" />
 </p>
 
 ---
 
-### 🚀 Projects
+### 📈 2025 Learning Map
 
-- 🔐 [DVWA Vulnerability Assessment Lab](https://github.com/janithmadusankha/dvwa-vapt-lab)
-- 🌐 [Faculty Network Design with VLAN & ACLs](https://github.com/janithmadusankha/faculty-network)
-- 🎨 [AI Tuition Poster Generator – ArtDeCoCreation](https://github.com/janithmadusankha/artdeco-ai)
-
----
-
-### 🏆 Goals for 2025
-
-- ✅ Complete full cybersecurity portfolio on GitHub
-- ✅ Finish secure campus network simulation
-- ⏳ Deploy automated monitoring system with Zabbix
-- ⏳ Contribute to an open source infosec project
-- ✅ Build internship-ready resume and portfolio
+- ✅ Build full penetration testing environment
+- ✅ Document faculty network + Zabbix setup
+- 🏗️ Integrate AI with automation in real-world design tasks
+- ⏳ Compete in a CTF or submit to a security research repo
 
 ---
 
-### 📫 Let's Connect
+### 🔗 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/janithmadusankha"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:janithmadusankha@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://artdecocreation.web.app"><img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel" /></a>
+  <a href="mailto:janithmadusankha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/janithmadusankha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://artdecocreation.web.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"></a>
 </p>
 
 ---
 
-> _“Learn the rules like a pro, so you can break them like an artist.” – Picasso_
+### 💬 Quote of the Day
+
+> "_Cybersecurity is not just a profession; it's a mindset of curiosity, protection, and precision._"
+
