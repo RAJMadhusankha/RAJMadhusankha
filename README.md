@@ -57,6 +57,7 @@
 
 ---
 
+
 ### 🛠 Tools & Technologies
 
 ```txt
@@ -66,3 +67,9 @@
 📡 Networking     : VLAN, ACLs, DHCP, NAT, OSPF
 📦 Programming    : Python, Bash, JavaScript, HTML/CSS
 🧠 Design Tools   : Canva, Figma, Adobe Photoshop
+
+```
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=janithmadusankha&show_icons=true&theme=radical" width="47%"> <img src="https://streak-stats.demolab.com?user=janithmadusankha&theme=radical" width="47%"> </p>
+
+<p align="center"> <a href="https://linkedin.com/in/janithmadusankha" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:janithmadusankha@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/janithmadusankha" target="_blank"> <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://artdecocreation.web.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="https://www.facebook.com/janith.madusankha.9" target="_blank"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/> </a> <a href="https://www.instagram.com/your_instagram_here" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/> </a> </p>
+
