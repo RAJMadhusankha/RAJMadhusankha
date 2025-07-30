@@ -1,4 +1,4 @@
-<!-- GitHub Profile README | Modern + Roadmap -->
+<!-- GitHub Profile README | Modern + Roadmap + Working Stats -->
 
 <h1 align="center">Hi there 👋, I'm Janith Madusankha</h1>
 <h3 align="center">Cybersecurity Enthusiast | Network Engineer | Automation Learner</h3>
@@ -22,28 +22,24 @@
 ### 🧠 My Career Path in Networking & Security
 
 #### 📍 **Phase 1: Foundations**
-
 - ✅ Networking Basics: OSI, TCP/IP, Subnetting, VLANs
 - ✅ Linux Essentials: File systems, Bash, Permissions
 - ✅ Cisco PT Labs: DHCP, NAT, ACLs, STP, OSPF
 - ✅ Security Basics: CIA Triad, Firewalls, Port Security
 
 #### 📍 **Phase 2: Pentesting & Security Labs**
-
 - 🔐 DVWA Vulnerability Testing (SQLi, XSS, CSRF)
 - 💣 Metasploit Exploits + Hydra Brute Force
 - 🔍 Wireshark, Nmap, Nikto, SQLmap Labs
 - 🧱 Firewall Configuration with pfSense
 
 #### 📍 **Phase 3: Monitoring & Secure Infrastructure**
-
 - 📡 SNMP, Zabbix, Syslog Alerts
 - 📈 Monitor networks in real-time with custom dashboards
 - 🧰 Secure Architecture (VLANs + ACLs + DMZ)
 - ⚙️ Project: High Availability Web Infra + Zabbix
 
 #### 📍 **Phase 4: Real-World Skills + Certifications**
-
 - 📁 GitHub Projects (Lab configs, reports, .pkt files)
 - 📄 Resume + LinkedIn + GitHub Portfolio Polished
 - 🧪 Practice for: Cisco CCNA | CompTIA Security+ | TryHackMe Labs
@@ -79,14 +75,12 @@
 
 ---
 
-### 📊 GitHub Insights
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your_github_username&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=janithmadusankha&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=janithmadusankha&theme=tokyonight" width="47%" />
 </p>
-
-> ⚠️ Replace `your_github_username` with your actual GitHub username
 
 ---
 
