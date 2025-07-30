@@ -168,8 +168,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=janithmadusankha&show_icons=true&theme=dark&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janithmadusankha&layout=compact&theme=dark" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=RAJMadhusankha&show_icons=true&theme=dark&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJMadhusankha&layout=compact&theme=dark" />
 </p>
 
 ---
