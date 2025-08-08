@@ -12,7 +12,7 @@
 ### 📘 About Me
 
 <p align="center">
-  🎓 Final Year BSc (Hons) in Information Technology – SEUSL<br>
+  🎓 Final Year BICT(Hons) in Information and Communication Technology – SEUSL<br>
   🛠️ Passionate about Penetration Testing, Network Design & Security Monitoring<br>
   📍 Active Projects: DVWA Exploits, VLAN+ACL+OSPF Setups, Zabbix Dashboards<br>
   🎯 Career Goal: Skilled Network Security Engineer<br>
