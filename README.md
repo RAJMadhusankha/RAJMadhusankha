@@ -1,7 +1,7 @@
 <!-- Elegant GitHub Profile README 2025 -->
 
 <h1 align="center">Hi 👋 I'm Janith Madusankha</h1>
-<h3 align="center">🎓 Networking & Security Undergraduate | 🔐 Secure Network Design | 📘 Hands-on Cisco Projects</h3>
+<h3 align="center">🎓 Networking & Security Undergraduate </h3>
 
 
 <p align="center">
