@@ -1,7 +1,8 @@
 <!-- Elegant GitHub Profile README 2025 -->
 
 <h1 align="center">Hi 👋 I'm Janith Madusankha</h1>
-<h3 align="center">🔐 Cybersecurity Enthusiast | 🖧 Network Engineer | 📡 Automation Explorer</h3>
+<h3 align="center">🎓 Networking & Security Undergraduate | 🔐 Secure Network Design | 📘 Hands-on Cisco Projects</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=36BCF7&vCenter=true&center=true&width=650&lines=Cybersecurity+%7C+Networking+%7C+Automation;Pentesting+%7C+Zabbix+%7C+Cisco+PT;Kali+Linux+%7C+Python+%7C+GitHub+Projects" alt="Typing SVG" />
